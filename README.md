@@ -8,8 +8,8 @@ cargo run
 
 ## Crew name
 
-_not chosen yet_
+The Team
 
 ## Members
 
-- _nobody has signed on yet_
+- Grace H 
