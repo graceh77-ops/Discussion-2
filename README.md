@@ -8,8 +8,8 @@ cargo run
 
 ## Crew name
 
-_not chosen yet_
+Tamok_
 
 ## Members
 
-- _nobody has signed on yet_
+Tamok Nguyen
